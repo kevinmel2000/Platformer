@@ -10,6 +10,7 @@ Acara ini merupakan bagian dari [BEKRAF Developer Day 2017 - Bali](https://www.d
 * [Unity Personal](https://store.unity.com/download?ref=personal "Download Unity Personal")
 * [Tizen Studio](https://developer.tizen.org/development/tizen-studio/download "Download Tizen Studio")
 * Jika menggunakan device Tizen, download driver [Samsung Android USB Driver for Windows](http://developer.samsung.com/galaxy/others/android-usb-driver-for-windows "Download driver Samsung")
+* [Asset Unity 2D Platformer (sudah di download)](https://kharma.unity3d.com/en/#!/content/11228 "Download Asset Unity 2D Platformer")
 
 ### Tizen Certificate
 Berikut ini beberapa ID Device yang dapat ditambahkan supaya nantinya game Anda dapat direview oleh tim Dicoding:
